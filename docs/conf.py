@@ -52,9 +52,10 @@ author = u'Netherlands eScience Center'
 
 nbsphinx_prolog = """
 {% set docname = env.doc2path(env.docname, base=None) %}
-Run this notebook |Binder| or view it `on Github <https://github.com/escience-academy/tutorial-cgc/blob/main/notebooks/{{ docname }}>`_.
+Run this notebook |Binder| or view it `on Github <https://github.com/escience-academy/tutorial-cgc/blob/main/{{ docname }}>`_.
+
 .. |Binder| image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/escience-academy/tutorial-cgc/main?urlpath=lab/tree/notebooks/{{ docname }}
+   :target: https://mybinder.org/v2/gh/escience-academy/tutorial-cgc/main?urlpath=lab/tree/{{ docname }}
 """
 
 # The version info for the project you're documenting, acts as replacement for
