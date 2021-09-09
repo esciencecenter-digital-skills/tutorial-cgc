@@ -6,9 +6,8 @@ channels:
 
 dependencies:
   - python=3.8
-  - gdal
   - pip
   - pip:
-      - rasterio
       - xarray
+      - zarr
       - clustering-geodata-cubes
