@@ -7,7 +7,7 @@ hosted on [GitHub](https://github.com/phenology/cgc), and its full documentation
 You can run this tutorial in a live JupyterLab session on [mybinder.org](https://mybinder.org) by clicking on the 
 following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/escience-academy/tutorial-cgc/main?urlpath=lab/tree/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esciencecenter-digital-skills/tutorial-cgc/main?urlpath=lab/tree/notebooks)
 
 ## Notebooks
 
@@ -18,7 +18,7 @@ following badge:
 Clone this repository and access its root directory:
 
 ```shell script
-git clone http://github.com/escience-academy/tutorial-cgc.git
+git clone http://github.com/esciencecenter-digital-skills/tutorial-cgc.git
 cd tutorial-cgc/
 ```
 
