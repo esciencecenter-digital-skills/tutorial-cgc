@@ -21,6 +21,7 @@ Both `CGC`_ and `this tutorial`_ are hosted on GitHub, and the package documenta
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Contents
 
    notebooks/coclustering
+   notebooks/triclustering
