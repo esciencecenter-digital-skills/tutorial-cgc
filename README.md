@@ -26,7 +26,7 @@ In order to run the notebooks, you will need:
 * Python 3.6, 3.7 or 3.8;
 * Having the following packages installed:
     * CGC (and its dependencies)
-    * [Xarray](http://xarray.pydata.org) and [Zarr](https://zarr.readthedocs.io) (to read the example data set)
+    * [Xarray](http://xarray.pydata.org) and [Zarr](https://zarr.readthedocs.io) to read the example data set ([requests](https://docs.python-requests.org) and [aiohttp](https://docs.aiohttp.org) enable accessing the data set from the web)
     * Jupyter
 
 This repository includes a configuration file (`environment.yml`) that allows you to install CGC, Xarray and Zarr
